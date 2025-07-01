@@ -7,9 +7,9 @@
 if ($Host.UI -ne $null -and $Host.UI.RawUI -ne $null) {
     Write-Host @"
 =======================================================================
-   CIS BENCHMARK CHECK v 1.0
+   CIS BENCHMARK CHECK 4 WINDOWS OS v 2.0
 =======================================================================
-   Developed by ASTRA 2.0
+                                      Developed by ASTRA 2.0 (3tternp)
 =======================================================================
 "@ -ForegroundColor Green
     Start-Sleep -Milliseconds 500  # Brief pause to ensure visibility
