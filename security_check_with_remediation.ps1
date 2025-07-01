@@ -1,4 +1,5 @@
-# CIS Benchmark Check Tool v 1.0 Developed by Astra 2.0
+# CIS Benchmark Check Tool v 2.0 
+# Developed by Astra 2.0
 # PowerShell script to check compliance with security policies based on user-selected environment
 # Exports results to HTML in the same directory as the script
 # Requires administrative privileges and PowerShell 5.1 or later
